@@ -1,0 +1,15 @@
+/Users/danielpellatt/Desktop/Repos/PlaygroundApp/Playground/bin/Debug/net6.0/Playground
+/Users/danielpellatt/Desktop/Repos/PlaygroundApp/Playground/bin/Debug/net6.0/Playground.deps.json
+/Users/danielpellatt/Desktop/Repos/PlaygroundApp/Playground/bin/Debug/net6.0/Playground.runtimeconfig.json
+/Users/danielpellatt/Desktop/Repos/PlaygroundApp/Playground/bin/Debug/net6.0/Playground.dll
+/Users/danielpellatt/Desktop/Repos/PlaygroundApp/Playground/bin/Debug/net6.0/Playground.pdb
+/Users/danielpellatt/Desktop/Repos/PlaygroundApp/Playground/obj/Debug/net6.0/Playground.csproj.AssemblyReference.cache
+/Users/danielpellatt/Desktop/Repos/PlaygroundApp/Playground/obj/Debug/net6.0/Playground.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielpellatt/Desktop/Repos/PlaygroundApp/Playground/obj/Debug/net6.0/Playground.AssemblyInfoInputs.cache
+/Users/danielpellatt/Desktop/Repos/PlaygroundApp/Playground/obj/Debug/net6.0/Playground.AssemblyInfo.cs
+/Users/danielpellatt/Desktop/Repos/PlaygroundApp/Playground/obj/Debug/net6.0/Playground.csproj.CoreCompileInputs.cache
+/Users/danielpellatt/Desktop/Repos/PlaygroundApp/Playground/obj/Debug/net6.0/Playground.dll
+/Users/danielpellatt/Desktop/Repos/PlaygroundApp/Playground/obj/Debug/net6.0/refint/Playground.dll
+/Users/danielpellatt/Desktop/Repos/PlaygroundApp/Playground/obj/Debug/net6.0/Playground.pdb
+/Users/danielpellatt/Desktop/Repos/PlaygroundApp/Playground/obj/Debug/net6.0/Playground.genruntimeconfig.cache
+/Users/danielpellatt/Desktop/Repos/PlaygroundApp/Playground/obj/Debug/net6.0/ref/Playground.dll
