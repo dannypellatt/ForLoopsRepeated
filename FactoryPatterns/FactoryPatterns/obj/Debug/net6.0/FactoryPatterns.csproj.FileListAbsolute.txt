@@ -1,0 +1,15 @@
+/Users/danielpellatt/Desktop/Repos/FactoryPatterns/FactoryPatterns/obj/Debug/net6.0/FactoryPatterns.csproj.AssemblyReference.cache
+/Users/danielpellatt/Desktop/Repos/FactoryPatterns/FactoryPatterns/obj/Debug/net6.0/FactoryPatterns.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielpellatt/Desktop/Repos/FactoryPatterns/FactoryPatterns/obj/Debug/net6.0/FactoryPatterns.AssemblyInfoInputs.cache
+/Users/danielpellatt/Desktop/Repos/FactoryPatterns/FactoryPatterns/obj/Debug/net6.0/FactoryPatterns.AssemblyInfo.cs
+/Users/danielpellatt/Desktop/Repos/FactoryPatterns/FactoryPatterns/obj/Debug/net6.0/FactoryPatterns.csproj.CoreCompileInputs.cache
+/Users/danielpellatt/Desktop/Repos/FactoryPatterns/FactoryPatterns/bin/Debug/net6.0/FactoryPatterns
+/Users/danielpellatt/Desktop/Repos/FactoryPatterns/FactoryPatterns/bin/Debug/net6.0/FactoryPatterns.deps.json
+/Users/danielpellatt/Desktop/Repos/FactoryPatterns/FactoryPatterns/bin/Debug/net6.0/FactoryPatterns.runtimeconfig.json
+/Users/danielpellatt/Desktop/Repos/FactoryPatterns/FactoryPatterns/bin/Debug/net6.0/FactoryPatterns.dll
+/Users/danielpellatt/Desktop/Repos/FactoryPatterns/FactoryPatterns/bin/Debug/net6.0/FactoryPatterns.pdb
+/Users/danielpellatt/Desktop/Repos/FactoryPatterns/FactoryPatterns/obj/Debug/net6.0/FactoryPatterns.dll
+/Users/danielpellatt/Desktop/Repos/FactoryPatterns/FactoryPatterns/obj/Debug/net6.0/refint/FactoryPatterns.dll
+/Users/danielpellatt/Desktop/Repos/FactoryPatterns/FactoryPatterns/obj/Debug/net6.0/FactoryPatterns.pdb
+/Users/danielpellatt/Desktop/Repos/FactoryPatterns/FactoryPatterns/obj/Debug/net6.0/FactoryPatterns.genruntimeconfig.cache
+/Users/danielpellatt/Desktop/Repos/FactoryPatterns/FactoryPatterns/obj/Debug/net6.0/ref/FactoryPatterns.dll
